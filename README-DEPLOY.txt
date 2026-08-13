@@ -37,3 +37,4 @@ SEARCH CONSOLE PRIORITY AFTER DEPLOY
 4. Request indexing for /tangem-recovery/
 5. Let the remaining pages be discovered through sitemap + internal links.
 DEPLOY TRIGGER
+DEPLOY TRIGGER 2
