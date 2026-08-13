@@ -1,0 +1,2 @@
+import { siteName } from '../lib/site';
+export default function Footer(){return <footer className="footer"><div className="wrap"><p><strong>{siteName}</strong> is an independent educational website and is not affiliated with, endorsed by, or operated by Tangem AG.</p><p>Never enter a seed phrase, private key or recovery phrase on this website. For downloads, wallet recovery and security-sensitive actions, use official Tangem resources.</p></div></footer>}
